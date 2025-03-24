@@ -105,3 +105,4 @@ A：Gradle 使用的 java 版本与 Android Studio 使用的不一致。Gradle �
 GPL-3.0-only © ZCShou
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FZCShou%2FGoGoGo.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FZCShou%2FGoGoGo?ref=badge_large&issueType=license)
+1
